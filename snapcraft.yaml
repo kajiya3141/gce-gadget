@@ -1,7 +1,7 @@
 name: gce-gadget
-version: '24-0.3'
+version: '26-0.1'
 type: gadget
-base: core24
+base: core26
 summary: GCE gadget for instances launched in Google Cloud
 description: |
     This gadget enables GCE VMs to run Ubuntu Core
